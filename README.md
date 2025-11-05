@@ -44,6 +44,7 @@ Liquid Ai LLM
 
 fastapi
 
+uvicorn
 
 
 
